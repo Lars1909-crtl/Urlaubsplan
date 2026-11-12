@@ -1,16 +1,11 @@
 # Mercedes-Benz Urlaubsplanung
 
-## GitHub Pages nutzen
-1. Neues Repository auf GitHub erstellen
-2. Diese Dateien hochladen: index.html + README.md
-3. Settings > Pages > Branch: main, Ordner: / (root) > Save
-4. Link öffnen, z.B. https://DEIN-USERNAME.github.io/DEIN-REPO/
+## GitHub Pages
+1. Dateien hochladen: index.html + README.md (alte Dateien ersetzen)
+2. Settings > Pages > Branch: main, Ordner: / (root) > Save
+3. Link: https://Lars1909-crtl.github.io/Urlaubsplan/
 
-## Funktionen
-- Name + Personalnummer Pflicht
-- Tarifurlaub 30 Tage, Freischicht 17 Tage, Überzeiten 10 Tage + Begründung
-- Azubi-Kennzeichnung + Excel-Tabelle
-- Admin-Login PIN: 9194
-- Genehmigung nur durch Admin
-- Excel-Export als CSV (in Excel öffnen)
-- Daten werden im Browser (localStorage) gespeichert
+## Neu in v2
+- Uebersicht als Tabelle mit Kacheln, Suche, Filter, Gruppierung
+- PIN steht nirgends mehr in der App
+- Admin-Login, Azubi-Tabelle, Excel-Export als CSV
