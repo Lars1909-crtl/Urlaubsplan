@@ -1,5 +1,4 @@
 # Mercedes-Benz Urlaubsplanung
-GitHub Pages: Dateien hochladen, Settings > Pages > main / root > Save
+GitHub Pages: Nur diese EINE index.html im Hauptordner (root) lassen. Alte Datei ersetzen, keine Unterordner.
 Link: https://Lars1909-crtl.github.io/Urlaubsplan/
-Neu: Kategorien anklickbar - kein Dropdown mehr, weder beim Eintragen noch beim Filtern. Filter-Chips mit Anzahl.
-PIN steht nirgends in der App.
+Neu: Kategorien anklickbar, kein Kategorie-Dropdown, richtiger Stern, PIN nirgends sichtbar.
