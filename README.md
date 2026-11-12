@@ -1,4 +1,4 @@
 # Mercedes-Benz Urlaubsplanung
-GitHub Pages: Nur diese EINE index.html im Hauptordner (root) lassen. Alte Datei ersetzen, keine Unterordner.
+GitHub Pages: index.html hochladen, Settings > Pages > main / root > Save
 Link: https://Lars1909-crtl.github.io/Urlaubsplan/
-Neu: Kategorien anklickbar, kein Kategorie-Dropdown, richtiger Stern, PIN nirgends sichtbar.
+Neu: Dashboard schlank, 2. Seite mit Uebersicht, Kalender, Azubi-Auswahl + Azubi-Liste verwalten (Admin), Admin-Login unten per Button, PIN nirgends sichtbar, Kategorien anklickbar.
